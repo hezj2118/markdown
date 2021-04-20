@@ -60,3 +60,5 @@ __粗体文本__
  
 _斜体文本_
 
+strikethrough text ~~like this~~
+
