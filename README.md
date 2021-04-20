@@ -10,6 +10,10 @@ a link to an externalweb site
   
 <https://github.com/hezj2118/markdown/blob/main/mdf.md>
 
+an image that is located on the web (not a file inthedirectory). If you right-click on an image in a web browser there is an option in the pop up to get the address/URL to the image
+
+![一只狐狸 图片](https://img1.baidu.com/it/u=3365503159,1655500687&fm=26&fmt=auto&gp=0.jpg)
+
  a code block with syntax highlighting for the programming language being used. Put some example code in the code block. I don't care what code. Note that those three ticks that define a code block are backticks not apostrophes.
  
 ```javascript
