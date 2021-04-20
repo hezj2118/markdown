@@ -8,7 +8,9 @@ a link to an externalweb site
 
  an image that is a file in the directory.
  
-![小羊 图片](https://github.com/hezj2118/markdown/blob/main/%E5%B0%8F%E7%BE%8A.jpeg)
+ 
+![小羊 图片](https://github.com/hezj2118/markdown/blob/main/%E5%B0%8F%E7%BE%8A.jpg)
+
 
   a link between markdown pages. Link from README.md to the second markdown file and from the second markdown file back to the README.md.
   
